@@ -1,0 +1,15 @@
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\bin\Debug\net7.0\PatikaHW1.exe
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\bin\Debug\net7.0\PatikaHW1.deps.json
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\bin\Debug\net7.0\PatikaHW1.runtimeconfig.json
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\bin\Debug\net7.0\PatikaHW1.dll
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\bin\Debug\net7.0\PatikaHW1.pdb
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.AssemblyInfoInputs.cache
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.AssemblyInfo.cs
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.dll
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\refint\PatikaHW1.dll
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.pdb
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\PatikaHW1.genruntimeconfig.cache
+C:\Users\aliba\Desktop\Bootcamp\Homeworks\PatikaHW1\PatikaHW1\obj\Debug\net7.0\ref\PatikaHW1.dll
